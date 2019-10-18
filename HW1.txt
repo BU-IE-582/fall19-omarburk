@@ -1,0 +1,3 @@
+The distributions look like poisson.
+The difference distribution looks like Skellam distribution.
+Maybe in 1xBet and MarathonbBet's range of (0,25-0,3], we can make money in the long run.
