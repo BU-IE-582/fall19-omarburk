@@ -23,6 +23,6 @@ Progress Journal is [here](https://bu-ie-582.github.io/fall19-omerburak/).
 #### Project
 
 * [Description](project/IE%20582_Fall19_Project.pdf)
-* [Report](project/IE%20582%20Project%20Report.pdf)
+* [Report](project/IE%20582%20Project%20report.pdf)
 * [Code Html](project/Project.html)
 * [Code Notebook](project/Project.Rmd)
