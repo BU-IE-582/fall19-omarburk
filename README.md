@@ -20,6 +20,12 @@ Progress Journal is [here](https://bu-ie-582.github.io/fall19-omerburak/).
 * [Notebook](IE582_HW3.ipynb)
 * [Html](IE582_HW3.html)
 
+#### Homework 4
+
+* [Description](IE582_Fall2019_Homework4.pdf)
+* [Notebook](IE582_HW4.ipynb)
+* [Html](IE582_HW4.html)
+
 #### Project
 
 * [Description](project/IE%20582_Fall19_Project.pdf)
